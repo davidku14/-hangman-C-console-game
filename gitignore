@@ -1,0 +1,34 @@
+# Compiled binaries
+hangman
+hangman.exe
+
+# Build directories
+build/
+out/
+bin/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.cmake
+install_manifest.txt
+
+# Object files
+*.o
+*.obj
+
+# IDE/editor files
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# macOS
+.DS_Store
+
+# Linux
+*~
